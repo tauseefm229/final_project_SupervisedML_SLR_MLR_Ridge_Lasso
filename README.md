@@ -1,9 +1,9 @@
-Project Overview:
+## Project Overview:
 
 This project aims to predict house prices using different linear regression techniques. The goal is to identify which factors most influence housing prices and to select the best-performing model among Simple Linear Regression, Multiple Linear Regression, Ridge, and Lasso Regression.
 
 
-Models Used:
+## Models Used:
 
 Simple Linear Regression
 
@@ -15,7 +15,7 @@ Lasso Regression
 
 
 
-Tech Stack:
+## Tech Stack:
 
 Python
 
@@ -27,6 +27,6 @@ Scikit-learn – Modeling and evaluation
 
 
 
-Finding: 
+## Finding: 
 
 Best Model: Multiple Linear Regression (highest R² and lowest RMSE)
